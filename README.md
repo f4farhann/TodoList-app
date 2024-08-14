@@ -20,8 +20,9 @@ Navigation Component: Manages navigation within the app.<br>
 ## Screenshots
 
 | Home Screen             | Details Screen             | Add Todo Screen             | Todo Home Screen             | Search Todo Screen             |
-| ----------------------- | -------------------------  | --------------------------- | ---------------------------- | ------------------------------ |![Todo_Home_Screen](https://github.com/user-attachments/assets/65f7f683-cfc9-420b-9bfb-b1d9b3c63cb2)
-![Search_Todo_Screen](https://github.com/user-attachments/assets/d1e2e152-1322-46e1-87f1-38a92d71615b)
+| ----------------------- | -------------------------  | --------------------------- | ---------------------------- | ------------------------------ |
+| ![Todo_Home_Screen](https://github.com/user-attachments/assets/65f7f683-cfc9-420b-9bfb-b1d9b3c63cb2) | ![Search_Todo_Screen](https://github.com/user-attachments/assets/d1e2e152-1322-46e1-87f1-38a92d71615b) | ![Detais_Screen](https://github.com/user-attachments/assets/44b8b283-c421-4891-9b28-fb99d0b78964) | ![Add_Todo_Screen](https://github.com/user-attachments/assets/08a5e51d-fc0e-40d5-973f-d267a73ddd8f) | ![Home_Screen](https://github.com/user-attachments/assets/1fa6729a-fde0-4922-afe3-e87b5829abe7) |
+
 
 | ![Home Screen](https://github.com/user-attachments/assets/297186d0-da70-4676-8873-7cac89102838) | ![Details Screen](https://github.com/user-attachments/assets/0cdcbcbf-fd9d-4d5f-a7e6-41e384311545) | ![Add Todo Screen](https://github.com/user-attachments/assets/91250413-5b4e-482e-8607-cb0a36e30295) |   ![Todo Home Screen](https://github.com/user-attachments/assets/27208a2b-601d-438b-a3ae-373fea03812b) | ![Search Todo Screen](https://github.com/user-attachments/assets/076fec03-5767-4890-b31b-f76212f8984d) |
 
